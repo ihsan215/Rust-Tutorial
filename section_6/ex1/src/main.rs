@@ -69,7 +69,7 @@ fn main() {
     car1.set_color("red".to_string());
     car1.set_top_speed(200);
 
-
+    
     motor.set_mpg(21);
     motor.set_color("green".to_string());
     motor.set_top_speed(150);
